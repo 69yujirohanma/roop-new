@@ -1,0 +1,14 @@
+cython
+onnx
+insightface==0.7.3
+onnxruntime-gpu
+opennsfw2
+tensorflow
+psutil
+tqdm
+protobuf
+pillow
+# optional: face enhancer (see README / notebook for the torchvision patch)
+# gfpgan
+# optional: desktop GUI only, not used on Colab
+# customtkinter
