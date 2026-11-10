@@ -9,6 +9,20 @@
 
 **Repository:** [github.com/69yujirohanma/roop-new](https://github.com/69yujirohanma/roop-new)
 
+Disclaimer
+
+This project is a face-swapping tool for lawful, consensual use only.
+
+Consent is required. Only use faces and footage you own or have explicit permission to use. Never use this tool to impersonate, deceive, harass, defame, blackmail, or create sexual or intimate content of anyone, and never use images of minors.
+No content filter. The NSFW check in this code is disabled. Nothing screens what you upload or generate, so responsibility for the output rests entirely with you.
+Follow the law. Deepfake, privacy, copyright, and likeness laws vary by country and can carry criminal and civil penalties. You are responsible for knowing and obeying them.
+Disclose synthetic media. Label generated content as AI-altered when you share it.
+Model licences apply. The insightface models, including inswapper_128, are provided for non-commercial research use. Check each model's licence before any other use.
+No warranty, no liability. This software is provided "as is", without warranty of any kind. The maintainers are not responsible for misuse, damages, or legal consequences arising from its use.
+No affiliation. This repository is not affiliated with or endorsed by the original Roop, insightface, or GFPGAN projects or their authors.
+
+If you cannot comply with these terms, do not use this software.
+
 ## Table of contents
 
 - [Features](#features)
